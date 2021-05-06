@@ -1,4 +1,6 @@
-Builds from msys2. Link with:
+# jq 1.6
 
- -ljq -lonig -lshlwapi
+Built with rtools-packages. Link with:
+
+    -ljq -lonig -lshlwapi
 
